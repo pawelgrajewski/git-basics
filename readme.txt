@@ -1,0 +1,1 @@
+Tutaj znajduje siê przyk³adowy tekst readme.txt 
